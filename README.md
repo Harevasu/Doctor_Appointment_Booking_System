@@ -1,1 +1,1 @@
-This is a MERN project for booking doctor appointments.
+# Doctor_Appointment_Booking_System
